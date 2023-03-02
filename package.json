@@ -1,9 +1,0 @@
-{
-  "dependencies": {
-    "date-fns": "^2.29.3",
-    "ics": "^2.41.0",
-    "tree-sitter": "^0.20.1",
-    "tree-sitter-markdown": "github:MDeiml/tree-sitter-markdown",
-    "uuid": "^9.0.0"
-  }
-}
